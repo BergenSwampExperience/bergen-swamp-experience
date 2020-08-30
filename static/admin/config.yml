@@ -1,6 +1,5 @@
 backend:
-  name: github
-  repo: BergenSwampExperience/bergen-swamp-experience
+  name: git-gateway
   branch: master
   commit_messages:
     create: 'Create {{collection}} “{{slug}}”'
